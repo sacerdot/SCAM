@@ -14,10 +14,12 @@ Dependencies for the Web interface:
  * the js_of_ocaml dune package (obtained via "dune install js_of_ocaml")
 
 How to compile the Web interface:
- dune build
+
+         `dune build`
 
 How to execute the Web interface:
- point your browser to _build/default/index.html
+
+          point your browser to _build/default/index.html
 
 Command line interface
 ======================
@@ -35,7 +37,9 @@ Dependencies for the command-line interface:
  * ocaml
 
 How to compile the command-line tests:  
- `make`
+
+         `make`
 
 How to execute the command-line tests:  
- `./strong_cbv`
+
+         `./strong_cbv`
